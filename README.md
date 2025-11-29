@@ -1,61 +1,83 @@
-🌟 Hi, I'm Deepalakshmi
+# 👋 Hi, I'm Deepalakshmi!
 
-Aspiring Software Engineer | Java | SQL | Python | Computer Vision (YOLO)
+### 🚀 Aspiring Software Developer | Java Full Stack | Python | Machine Learning
 
-👩‍💻 About Me
+I'm passionate about building real-world applications using modern technologies.  
+Currently learning Java Full Stack Development and improving my problem-solving skills.
 
-🎓 B.E. Computer Science Engineering (2025)
+---
 
-💻 Passionate about Java Development and Machine Learning
+## 🌟 About Me
+- 🎓 Final Year Student  
+- 💻 Interested in **Java, Python, Machine Learning, Deep Learning**  
+- 🤖 Worked on projects like **Road Crack Detection Using YOLO**  
+- 🔐 Built **Laser Security Alarm System for Farming**  
+- 📚 Constantly learning and exploring new technologies  
+- 🌱 Currently learning: **Spring Boot, APIs, SQL, OOP, DSA**
 
-🔍 Interested in Computer Vision, Data Science, and Full Stack Java
+---
 
-📍 Based in Chennai, Tamil Nadu
+## 💼 Skills
+### 🔸 Programming
+- Java  
+- Python  
+- C  
+- JavaScript (basic)
 
-🌱 Currently learning Java Full Stack Development
+### 🔸 Development Tools
+- Visual Studio Code  
+- Eclipse  
+- Git & GitHub  
+- Google Colab  
 
-🛠️ Skills
+### 🔸 Machine Learning / Deep Learning
+- YOLO (Object Detection)  
+- OpenCV  
+- Roboflow Datasets  
 
-Programming: Java, Python
-Database: Oracle SQL
-Web: HTML5, CSS3
-Tools: VS Code, GitHub, MS Office
-Concepts: YOLO (v8/v11), Machine Learning Basics, Data Preprocessing
+### 🔸 Other Skills
+- HTML, CSS  
+- Basic DBMS Concepts  
+- Problem Solving  
 
+---
 
+## 🧠 Projects
 
-🚀 Projects
-📌 Road Crack Detection using YOLO (v8 & v11)
+### 🔹 **Road Crack Detection Using YOLO Algorithm**
+- Custom-trained YOLO model  
+- Video input detection  
+- Dataset from Roboflow  
+- Implemented in Python + Google Colab  
 
-Detects cracks automatically from images/videos
+### 🔹 **Smart Parking System**
+- Detects free parking slots  
+- Java + basic file handling  
 
-Uses OpenCV, Roboflow, and YOLO
+### 🔹 **Laser Security Alarm for Farming**
+- Alerts farmers when someone enters  
+- Sensors + alarm control  
 
-Includes severity analysis module
+### 🔹 **Java Basics Repository**
+- All fundamental Java programs  
+- OOP, loops, methods, constructors  
 
-Tools: Python, OpenCV, YOLO
+---
 
-🧪 Internship
+## 📊 GitHub Stats
 
-Python with Data Science — NLC India Limited
+![Deepalakshmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepalakshmiElavarasan&show_icons=true)
 
-Data preprocessing, EDA
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepalakshmiElavarasan&layout=compact)
 
-Mini automation projects
+---
 
-Python scripting and visualization
+## 🔗 Connect With Me
 
-🎤 Conferences
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/deepalakshmi-elavarasan)
 
-Presented Road Crack Detection using YOLO Algorithm
+📧 **Email:** deepalakshmielavarasan28@gmail.com
 
-Presented Laser Security Alarm for Farming
+---
 
-📫 Connect With Me
-
-📧 Email: deepalakshme29@gmail.com
-
-🔗 LinkedIn: add your link here
-💻 GitHub: your GitHub URL auto-shows
-
-⭐ Thank You for Visiting My Profile!
+⭐ *Thanks for visiting my profile! Feel free to check out my projects and connect with me.*
